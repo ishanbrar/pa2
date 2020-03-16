@@ -1,0 +1,12 @@
+Script started on Wed Feb 26 18:54:34 2020
+[?1034hbash-3.2$ exit./filecnt /usr/share | ./filedisp -bfd[C[C[C[C[C[C[C[C[C[Cexit[K./filecnt /usr/share | filedisp -d[C[C[C[C[C[C[C[C[C[Cg++ filecnt.cpp -o filecnt | g++ filedisp.cpp -o filedisp
+bash-3.2$ g++ filecnt.cpp -o filecnt | g++ filedisp.cpp -o filedisp[C[C[C[C[C[C[C[C[C[Cexit[K./filecnt /usr/share | ./filedisp -bfd
+The total number of directories in directory /usr/share is: 729 
+bash-3.2$ ./filecnt /usr/share | ./filedisp -d[C[C[C[C[C[C[C[C[C[Cg++ filecnt.cpp -o filecnt | g++ filedisp.cpp -o filedisp[C[C[C[C[C[C[C[C[C[Cexit[K./filecnt /usr/share | ./filedisp -bf
+The total number of files in directory /usr/share is: 13957 
+bash-3.2$ ./filecnt /usr/share | ./filedisp -fd[C[C[C[C[C[C[C[C[C[Cg++ filecnt.cpp -o filecnt | g++ filedisp.cpp -o filedisp[C[C[C[C[C[C[C[C[C[Cexit[K./filecnt /usr/share | ./filedisp -b
+The total number of bytes occupied by all files in directory /usr/share is: 176M 
+bash-3.2$ exit
+exit
+
+Script done on Wed Feb 26 18:55:01 2020

@@ -1,0 +1,5 @@
+#this is a comment
+all:
+	g++ filecnt.cpp -o filecnt | g++ filedisp.cpp -o filedisp
+	./filecnt /usr/share | ./filedisp -d
+compile:
